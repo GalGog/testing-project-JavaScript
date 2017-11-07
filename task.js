@@ -28,8 +28,6 @@ var color = COLOR_RED;
 alert(color);
 
 
-var userAge = 12;
-
 
 var userName = prompt('what is yous name');
 console.log (userName);
