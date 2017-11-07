@@ -10,6 +10,8 @@ alert (message);
 var newMessage = 'hi h i hi hi';
 alert(newMessage);
 
-var user = 'Sergey', age = 45, message = 'hi gogit';
+var user = 'Sergey', age = 35, message = 'hi gogit';
 
 console.log('console log');
+
+
