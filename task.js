@@ -2,7 +2,7 @@ alert('hello word');
 alert('first');
 alert('second');
 
-
+/*переменные*/
 var message;
 message = 'hello hhfhj';
 alert (message);
@@ -13,6 +13,7 @@ alert(newMessage);
 var user = 'Sergey', age = 35, message = 'hi gogit';
 
 console.log('console log');
+
 
 
 var one=1, two=2;

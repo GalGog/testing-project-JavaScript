@@ -1,5 +1,5 @@
 /*1*/
-var userName = prompt('what is yous name');
+var userName = prompt('what is yous name?');
 console.log (userName);
 /*2*/
 var userName = prompt("what is ypur name");
@@ -11,4 +11,10 @@ if (userAnsver == true){
 else {
     alert("who are you?");
 
-}
+};
+/*3*/
+var developer;
+var name;
+name = 'sergey';
+developer = 'sergey';
+alert(developer)
