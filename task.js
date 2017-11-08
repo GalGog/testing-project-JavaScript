@@ -30,7 +30,7 @@ alert(color);
 
 
 
-var userName = prompt('what is yous name');
+var userName = prompt('what is yous name?');
 console.log (userName);
 
 /*prompt*/
