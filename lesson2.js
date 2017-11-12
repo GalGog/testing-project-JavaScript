@@ -45,3 +45,16 @@ if (userName == 'admin') {
     alert( 'Я вас не знаю' );
 
 }
+/* task4 */
+var a = 1, b = 2;
+if (a + b >= 3) {
+    result = 'Yep!';
+} else {
+    result = 'Noup!';
+}
+/* task4  Перепишите if с использованием оператора '?':
+
+var a = 1, b = 2;
+(a + b >= 3)? alert('Yep!'):alert('noun');
+
+*/
