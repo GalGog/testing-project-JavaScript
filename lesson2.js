@@ -58,3 +58,22 @@ var a = 1, b = 2;
 (a + b >= 3)? alert('Yep!'):alert('noun');
 
 */
+/* task5 */
+var name = 'admin', text;
+
+if (name == 'admin') {
+    text = 'Hi';
+} else if (name == 'manager') {
+    text = 'Hello';
+} else if (name == '') {
+    text = 'No login';
+} else {
+    text = '';
+}
+/* task5 Перепишите if..else с использованием нескольких операторов '?':
+
+var name = (name == 'admin')?'Hi':
+(name == 'manager')?'Hello':
+    (name == '')? 'No login':
+        '';
+*/
