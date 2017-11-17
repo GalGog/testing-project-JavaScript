@@ -17,3 +17,41 @@ nextPrime:
 
         alert( i ); // простое
     }
+
+
+
+
+var num = 1;
+for ( ; num <= 100; num++ ) {
+    if ( num % 5 === 0 && num % 3 === 0 ){
+        document.write( num, " = FizzBuzz <br />" )
+    } else {
+        if ( num%5 === 0 ){
+            document.write( num, " = Buzz <br />" );
+        } else {
+            if ( num%3 === 0 ){
+                document.write( num, " = Fizz <br/ >" );
+            } else {
+                document.write( num, "<br/ >" );
+            }
+        }
+    }
+}
+
+
+
+var result = "\n";
+2
+for (var row = 1; row <= 8; row++) {
+    3
+    for (var cell = 1; cell <= 8; cell++) {
+        4
+        result += (row % 2 == cell % 2) ? "#" : " "; //Можно еще побитово - (row & 1 == cell & 1)
+        5
+    }
+    6
+    result += "\n";
+    7
+}
+8
+console.log(result);
