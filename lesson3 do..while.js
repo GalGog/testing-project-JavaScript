@@ -40,18 +40,3 @@ for ( ; num <= 100; num++ ) {
 
 
 
-var result = "\n";
-2
-for (var row = 1; row <= 8; row++) {
-    3
-    for (var cell = 1; cell <= 8; cell++) {
-        4
-        result += (row % 2 == cell % 2) ? "#" : " "; //Можно еще побитово - (row & 1 == cell & 1)
-        5
-    }
-    6
-    result += "\n";
-    7
-}
-8
-console.log(result);
