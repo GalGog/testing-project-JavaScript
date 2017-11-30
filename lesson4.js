@@ -1,35 +1,14 @@
-function fib(n) {
-    var a = 1,
-        b = 0,
-        x;
-    for (i = 0; i < n; i++) {
-        x = a + b;
-        a = b
-        b = x;
-    }
-    return b;
+/*Напишите функцию checkSpam которая проверяет строку на содержание слов: spam, sex.
+checkSpam('get new Sex videos'); // true
+checkSpam('[SPAM] How to earn fast money?'); // true
+checkSpam('New PSD template'); // false
+*/
+function checkSpam(str) {
+    var lowerStr = str.toLowerCase();
+
+    return !!(~lowerStr.indexOf('viagra') || ~lowerStr.indexOf('xxx'));
 }
 
-
-function fibBinet(n) {
-    var phi = (1 + Math.sqrt(5)) / 2;
-    // используем Math.round для округления до ближайшего целого
-    return Math.round(Math.pow(phi, n) / Math.sqrt(5));
-}
-
-function fib(n) {
-    var a = 1,
-        b = 0,
-        x;
-    for (i = 0; i < n; i++) {
-        x = a + b;
-        a = b
-        b = x;
-    }
-    return b;
-}
-
-alert( fibBinet(2) ); // 1, равно fib(2)
-alert( fibBinet(8) ); // 21, равно fib(8)
-alert( fibBinet(77) ); // 5527939700884755
-alert( fib(77) ); // 5527939700884757, не совпадает!
+alert( checkSpam('buy ViAgRA now') );
+alert( checkSpam('free xxxxx') );
+alert( checkSpam("innocent rabbit") );
