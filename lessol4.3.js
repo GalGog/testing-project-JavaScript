@@ -10,7 +10,7 @@ function truncate(str, maxlength) {
     return str;
 }
 
-alert( truncate("Вот, что мне хотелось бы сказать на эту тему:", 40) );
+alert( truncate("Вот, что мне хотелось бы сказать на эту тему:", 10) );
 alert( truncate("Всем привет!", 20) );
 
 
