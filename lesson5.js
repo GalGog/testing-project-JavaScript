@@ -15,7 +15,7 @@ var tasksCompleted = {
     Serg: 45,
     Anna: 29,
     Elena: 1,
-    Anton: 99
+    Anton: 19
 };
 for (var key in tasksCompleted) {
     alert( "Ключ: " + key + " значение: " + tasksCompleted[key] );
