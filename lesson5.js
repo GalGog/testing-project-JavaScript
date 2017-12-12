@@ -9,3 +9,14 @@ user.name = 'Andrey';
 user.age = 30;
 delete user.name;
 console.log (user);
+
+
+var tasksCompleted = {
+    Serg: 35,
+    Anna: 29,
+    Elena: 1,
+    Anton: 99
+};
+for (var key in tasksCompleted) {
+    alert( "Ключ: " + key + " значение: " + tasksCompleted[key] );
+}
