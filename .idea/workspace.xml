@@ -217,7 +217,7 @@
       <workItem from="1513171222479" duration="1668000" />
       <workItem from="1513173328715" duration="405000" />
       <workItem from="1513177689796" duration="234000" />
-      <workItem from="1513182855783" duration="4000" />
+      <workItem from="1513182855783" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -331,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513177742365</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lesson5 &#10;Создание массива">
+      <created>1513182864791</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1513182864791</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3583000" />
+    <option name="totallyTimeSpent" value="3601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
