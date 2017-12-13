@@ -18,11 +18,21 @@
       <file leaf-file-name="Массивы с числовыми индексами.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="28">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Массивы с числовыми индексами.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +67,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="650" />
+    <option name="x" value="543" />
     <option name="y" value="22" />
     <option name="width" value="790" />
     <option name="height" value="835" />
@@ -206,7 +216,7 @@
       <workItem from="1513091599297" duration="122000" />
       <workItem from="1513091733424" duration="772000" />
       <workItem from="1513092927935" duration="378000" />
-      <workItem from="1513171222479" duration="450000" />
+      <workItem from="1513171222479" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -271,17 +281,24 @@
       <option name="project" value="LOCAL" />
       <updated>1513171581924</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:">
+      <created>1513171702846</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1513171702846</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1722000" />
+    <option name="totallyTimeSpent" value="1910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="650" y="22" width="790" height="835" extended-state="0" />
+    <frame x="543" y="22" width="790" height="835" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46204188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19240838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -311,7 +328,8 @@
     <MESSAGE value="lesson 5-5" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Пустой массив" />
-    <option name="LAST_COMMIT_MESSAGE" value="leson 5 Массивы с числовыми индексами&#10;Пустой массив" />
+    <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
+    <option name="LAST_COMMIT_MESSAGE" value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -463,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="28">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
