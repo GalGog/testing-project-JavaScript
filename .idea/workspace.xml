@@ -18,8 +18,8 @@
       <file leaf-file-name="Массивы с числовыми индексами.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="42" />
+            <state relative-caret-position="350">
+              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -217,7 +217,7 @@
       <workItem from="1513091733424" duration="772000" />
       <workItem from="1513092927935" duration="378000" />
       <workItem from="1513171222479" duration="1668000" />
-      <workItem from="1513173328715" duration="42000" />
+      <workItem from="1513173328715" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -310,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513172688275</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lesson5 &#10;push  Добавляет элемент в конец массива:">
+      <created>1513173381256</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1513173381256</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2982000" />
+    <option name="totallyTimeSpent" value="3237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="543" y="22" width="790" height="835" extended-state="0" />
@@ -354,7 +361,8 @@
     <MESSAGE value="leson 5 Чтобы получить нужный элемент из массива – указывается его номер в квадратных скобках:" />
     <MESSAGE value="lesson5 &#10;Общее число элементов, хранимых в массиве, содержится в его свойстве length:" />
     <MESSAGE value="lesson5 &#10;// получить объект из массива и тут же -- его свойство" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson5 &#10;// получить объект из массива и тут же -- его свойство" />
+    <MESSAGE value="lesson5 &#10;push  Добавляет элемент в конец массива:" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson5 &#10;push  Добавляет элемент в конец массива:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -494,15 +502,15 @@
     <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Массивы с числовыми индексами.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="350">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>

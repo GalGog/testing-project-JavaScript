@@ -23,3 +23,11 @@ var fruits = ["Яблоко", "Апельсин"];
 fruits.push("Груша");
 
 alert( fruits );
+
+
+//shift Удаляет из массива первый элемент и возвращает его:
+
+
+var yamy = ["mango", "avokado", "gosga"]
+alert (yamy.shift());
+alert(yamy);
