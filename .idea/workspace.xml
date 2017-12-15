@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e6dc0aa-7b93-4ce5-aed3-98ddf6422e8d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5task1.html" afterPath="$PROJECT_DIR$/lesson5task1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5task1.js" afterPath="$PROJECT_DIR$/lesson5task1.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +28,9 @@
       <file leaf-file-name="lesson5task1.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson5task1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -223,7 +220,7 @@
       <workItem from="1513173328715" duration="405000" />
       <workItem from="1513177689796" duration="234000" />
       <workItem from="1513182855783" duration="78000" />
-      <workItem from="1513350582450" duration="391000" />
+      <workItem from="1513350582450" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -372,11 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513350779448</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=" lesson 5 task 1">
+      <created>1513350978191</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1513350978191</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4048000" />
+    <option name="totallyTimeSpent" value="4232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="364" y="22" width="1076" height="835" extended-state="0" />
@@ -641,11 +645,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson5task1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="280">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
