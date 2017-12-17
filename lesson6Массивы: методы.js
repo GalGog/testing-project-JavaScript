@@ -82,3 +82,11 @@ var arr = [1, 2, 3];
 arr.reverse();
 
 alert( arr ); // 3,2,1
+
+
+
+//Метод arr.concat(value1, value2, … valueN) создаёт новый массив, в который копируются элементы из arr, а также value1, value2, ... valueN.
+var arr = [1, 2];
+var newArr = arr.concat(3, 4);
+
+alert( newArr ); // 1,2,3,4
