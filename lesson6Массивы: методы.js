@@ -43,3 +43,14 @@ var arr = ["Я", "сейчас", "изучаю", "JavaScript"];
 arr.splice(0, 3, "Мы", "изучаем")
 
 alert( arr ) // теперь ["Мы", "изучаем", "JavaScript"]
+
+
+
+
+/*arr.splice(index[, deleteCount, elem1, ..., elemN])*/
+var arr = ["Я", "сейчас", "изучаю", "JavaScript"];
+
+// удалить 2 первых элемента
+var removed = arr.splice(0, 2);
+
+alert( removed ); // "Я", "сейчас" <-- array of removed elements
