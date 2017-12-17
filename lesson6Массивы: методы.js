@@ -102,3 +102,14 @@ var arr = [1, 0, false];
 alert( arr.indexOf(0) ); // 1
 alert( arr.indexOf(false) ); // 2
 alert( arr.indexOf(null) ); // -1
+
+
+//метод Object.keys(obj). 
+var user = {
+  name: "Петя",
+  age: 30
+}
+
+var keys = Object.keys(user);
+
+alert( keys ); // name, age
