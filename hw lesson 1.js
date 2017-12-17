@@ -5,7 +5,7 @@ console.log (userName);
 var userName = prompt("what is ypur name");
 
 var userAnsver = confirm("is it you name " + userName + "?");
-if (userAnsver == true){
+if (userAnsver =true){
     alert("hey " + userName);
 }
 else {
