@@ -21,3 +21,13 @@ var arr = ['Маша', 'Петя', 'Марина', 'Василий'];
 var str = arr.join(';');
 
 alert( str ); // Маша;Петя;Марина;Василий
+
+
+
+
+/*arr.splice(index[, deleteCount, elem1, ..., elemN])*/
+var arr = ["Я", "изучаю", "JavaScript"];
+
+arr.splice(1, 1); // начиная с позиции 1, удалить 1 элемент
+
+alert( arr ); //  осталось ["Я", "JavaScript"]
