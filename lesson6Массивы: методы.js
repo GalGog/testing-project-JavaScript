@@ -55,6 +55,8 @@ var removed = arr.splice(0, 2);
 
 alert( removed ); // "Я", "сейчас" <-- array of removed elements
 
+
+
 //Метод splice также может вставлять элементы без удаления, для этого достаточно установить deleteCount в 0:
 
 var arr = ["Я", "изучаю", "JavaScript"];
@@ -63,5 +65,14 @@ var arr = ["Я", "изучаю", "JavaScript"];
 // удалить 0
 // вставить "сложный", "язык"
 arr.splice(2, 0, "сложный", "язык");
+
+
+
+//Метод slice(begin, end) копирует участок массива от begin до end, не включая end. Исходный массив при этом не меняется.
+var arr = ["Почему", "надо", "учить", "JavaScript"];
+
+var arr2 = arr.slice(1, 3); // элементы 1, 2 (не включая 3)
+
+alert( arr2 ); // надо, учить
 
 alert( arr ); // "Я", "изучаю", "сложный", "язык", "JavaScript"
