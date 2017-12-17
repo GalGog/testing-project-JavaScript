@@ -54,3 +54,14 @@ var arr = ["Я", "сейчас", "изучаю", "JavaScript"];
 var removed = arr.splice(0, 2);
 
 alert( removed ); // "Я", "сейчас" <-- array of removed elements
+
+//Метод splice также может вставлять элементы без удаления, для этого достаточно установить deleteCount в 0:
+
+var arr = ["Я", "изучаю", "JavaScript"];
+
+// с позиции 2
+// удалить 0
+// вставить "сложный", "язык"
+arr.splice(2, 0, "сложный", "язык");
+
+alert( arr ); // "Я", "изучаю", "сложный", "язык", "JavaScript"
