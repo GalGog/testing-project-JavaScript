@@ -77,7 +77,10 @@ alert( arr2 ); // надо, учить
 
 alert( arr ); // "Я", "изучаю", "сложный", "язык", "JavaScript"
 
+
+
 //arr.reverse() меняет порядок элементов в массиве на обратный.
+
 var arr = [1, 2, 3];
 arr.reverse();
 
@@ -90,3 +93,12 @@ var arr = [1, 2];
 var newArr = arr.concat(3, 4);
 
 alert( newArr ); // 1,2,3,4
+
+
+
+//Метод «arr.indexOf(searchElement[, fromIndex])» возвращает номер элемента searchElement в массиве arr или -1, если его нет.
+var arr = [1, 0, false];
+
+alert( arr.indexOf(0) ); // 1
+alert( arr.indexOf(false) ); // 2
+alert( arr.indexOf(null) ); // -1
