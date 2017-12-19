@@ -16,3 +16,14 @@ var positiveArr = arr.filter(function(number) {
 });
 
 alert( positiveArr ); // 1,2,3 
+
+
+//Метод «arr.map(callback[, thisArg])» используется для трансформации массива.
+var names = ['HTML', 'CSS', 'JavaScript'];
+
+var nameLengths = names.map(function(name) {
+  return name.length;
+});
+
+// получили массив с длинами
+alert( nameLengths ); // 4,3,10
