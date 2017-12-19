@@ -60,3 +60,23 @@ filter – для фильтрации массива.
 every/some – для проверки массива.
 map – для трансформации массива в массив.
 reduce/reduceRight – для прохода по массиву с вычислением значения.*/
+
+
+
+//Задачи    Перепишите цикл через map
+var arr = ["Есть", "жизнь", "на", "Марсе"];
+
+var arrLength = [];
+for (var i = 0; i < arr.length; i++) {
+  arrLength[i] = arr[i].length;
+}
+
+alert( arrLength );
+//рeшение 
+
+var arr = ["Есть", "жизнь", "на", "Марсе"];
+
+var arrLengths = arr.map(function(arr) {
+  return arr.length;
+});
+alert( arrLengths ); 
