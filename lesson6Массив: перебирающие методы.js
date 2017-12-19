@@ -27,3 +27,16 @@ var nameLengths = names.map(function(name) {
 
 // получили массив с длинами
 alert( nameLengths ); // 4,3,10
+
+
+
+//Метод «arr.every(callback[, thisArg])» возвращает true, если вызов callback вернёт true для каждого элемента arr. Метод «arr.some(callback[, thisArg])» возвращает true, если вызов callback вернёт true для какого-нибудь элемента arr.
+
+var arr = [1, -1, 2, -2, 3];
+
+function isPositive(number) {
+  return number > 0;
+}
+
+alert( arr.every(isPositive) ); // false, не все положительные
+alert( arr.some(isPositive) ); // true, есть хоть одно положительное
