@@ -76,7 +76,7 @@ alert( arrLength );
 
 var arr = ["Есть", "жизнь", "на", "Марсе"];
 
-var arrLengths = arr.map(function(arr) {
-  return arr.length;
+var arrLengths = arr.map(function(item) {
+  return item.length;
 });
 alert( arrLengths ); 
