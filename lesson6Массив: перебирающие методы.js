@@ -52,3 +52,11 @@ var result = arr.reduce(function(sum, current) {
 }, 0);
 
 alert( result ); // 15
+
+
+
+/*forEach – для перебора массива.
+filter – для фильтрации массива.
+every/some – для проверки массива.
+map – для трансформации массива в массив.
+reduce/reduceRight – для прохода по массиву с вычислением значения.*/
