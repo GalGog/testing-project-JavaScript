@@ -40,3 +40,15 @@ function isPositive(number) {
 
 alert( arr.every(isPositive) ); // false, не все положительные
 alert( arr.some(isPositive) ); // true, есть хоть одно положительное
+
+
+//reduce/reduceRight.  Метод «arr.reduce(callback[, initialValue])» используется для последовательной обработки каждого элемента массива с сохранением промежуточного результата.
+var arr = [1, 2, 3, 4, 5]
+
+// для каждого элемента массива запустить функцию,
+// промежуточный результат передавать первым аргументом далее
+var result = arr.reduce(function(sum, current) {
+  return sum + current;
+}, 0);
+
+alert( result ); // 15
