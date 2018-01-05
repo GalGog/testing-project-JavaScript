@@ -13,7 +13,7 @@ console.log (user);
 
 var tasksCompleted = {
     Serg: 45,
-    Anna: 29,
+    Anna: 23,
     Elena: 1,
     Anton: 19
 };
