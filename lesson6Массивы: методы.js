@@ -1,6 +1,4 @@
-/**
- * Created by bakhtin on 16/12/2017.
- */
+
 var names = 'Маша, Петя, Марина, Василий';
 
 var arr = names.split('; ');
