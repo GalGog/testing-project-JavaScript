@@ -79,7 +79,7 @@ alert( arr ); // "Я", "изучаю", "сложный", "язык", "JavaScript
 
 //arr.reverse() меняет порядок элементов в массиве на обратный.
 
-var arr = [1, 2, 3];
+var arr = [1, 2, 4];
 arr.reverse();
 
 alert( arr ); // 3,2,1
