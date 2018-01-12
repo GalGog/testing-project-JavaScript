@@ -7,7 +7,6 @@
 camelize("background-color") == 'backgroundColor';
 camelize("list-style-image") == 'listStyleImage';
 camelize("-webkit-transition") == 'WebkitTransition';
-Такая функция полезна при работе с CSS.
 
 P.S. Вам пригодятся методы строк charAt, split и toUpperCase.
 
