@@ -20,8 +20,6 @@ else if (number < 0 ){
     alert('если значение меньше нуля, ');
 }
 
-
-
 /* task3 */
 var userName = prompt('ваш логин ?', '');
 
