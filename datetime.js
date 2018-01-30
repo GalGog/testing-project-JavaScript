@@ -7,3 +7,10 @@ alert( date.getHours() );
 // сколько сейчас времени в Лондоне?
 // час в зоне GMT+0
 alert( date.getUTCHours() );
+
+
+//
+var d = new Date(2011, 1, 28);
+d.setDate(d.getDate() + 2);
+
+alert( d ); // 2 марта, 2011

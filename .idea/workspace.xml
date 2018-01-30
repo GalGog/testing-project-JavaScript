@@ -40,8 +40,8 @@
       <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -238,7 +238,7 @@
       <workItem from="1513350582450" duration="1659000" />
       <workItem from="1513352759944" duration="420000" />
       <workItem from="1513446778130" duration="727000" />
-      <workItem from="1517346375010" duration="336000" />
+      <workItem from="1517346375010" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -485,11 +485,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517346553732</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="datetime&#10;date.getHours">
+      <created>1517346719444</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1517346719444</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6944000" />
+    <option name="totallyTimeSpent" value="7283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -541,7 +548,8 @@
     <MESSAGE value=" lesson 6  Массив: перебирающие методы" />
     <MESSAGE value="delete tracking files" />
     <MESSAGE value="datetime" />
-    <option name="LAST_COMMIT_MESSAGE" value="datetime" />
+    <MESSAGE value="datetime&#10;date.getHours" />
+    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;date.getHours" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -867,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="209">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>
