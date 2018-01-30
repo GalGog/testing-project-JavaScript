@@ -14,3 +14,10 @@ var d = new Date(2011, 1, 28);
 d.setDate(d.getDate() + 2);
 
 alert( d ); // 2 марта, 2011
+
+
+//
+var d = new Date();
+d.setSeconds(d.getSeconds() + 70);
+
+alert( d ); // выведет корректную дату
