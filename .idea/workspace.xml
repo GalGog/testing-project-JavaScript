@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datetime.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datetime.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datetime.js" afterPath="$PROJECT_DIR$/datetime.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,21 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datetime.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="datetime.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datetime.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="57">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datetime.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -74,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datetime.js" />
         <option value="$PROJECT_DIR$/datetime.html" />
+        <option value="$PROJECT_DIR$/datetime.js" />
       </list>
     </option>
   </component>
@@ -239,7 +238,7 @@
       <workItem from="1513350582450" duration="1659000" />
       <workItem from="1513352759944" duration="420000" />
       <workItem from="1513446778130" duration="727000" />
-      <workItem from="1517346375010" duration="163000" />
+      <workItem from="1517346375010" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -479,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517269630156</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="datetime">
+      <created>1517346553732</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1517346553732</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6771000" />
+    <option name="totallyTimeSpent" value="6944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -534,7 +540,8 @@
     <MESSAGE value=" lesson 6 Массивы: методы" />
     <MESSAGE value=" lesson 6  Массив: перебирающие методы" />
     <MESSAGE value="delete tracking files" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete tracking files" />
+    <MESSAGE value="datetime" />
+    <option name="LAST_COMMIT_MESSAGE" value="datetime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -850,18 +857,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.html" />
-    <entry file="file://$PROJECT_DIR$/datetime.js">
+    <entry file="file://$PROJECT_DIR$/datetime.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datetime.html">
+    <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
