@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="539">
-              <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+              <caret line="58" column="57" lean-forward="false" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -238,7 +238,7 @@
       <workItem from="1513350582450" duration="1659000" />
       <workItem from="1513352759944" duration="420000" />
       <workItem from="1513446778130" duration="727000" />
-      <workItem from="1517346375010" duration="1008000" />
+      <workItem from="1517346375010" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -506,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517347135512</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="datetime&#10;date.getHours">
+      <created>1517347454725</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1517347454725</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7616000" />
+    <option name="totallyTimeSpent" value="7775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -890,7 +897,7 @@
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
-          <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <caret line="58" column="57" lean-forward="false" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
           <folding />
         </state>
       </provider>
