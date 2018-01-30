@@ -21,3 +21,16 @@ var d = new Date();
 d.setSeconds(d.getSeconds() + 70);
 
 alert( d ); // выведет корректную дату
+
+
+
+var start = new Date; // засекли время
+
+// что-то сделать
+for (var i = 0; i < 100000; i++) {
+    var doSomething = i * i * i;
+}
+
+var end = new Date; // конец измерения
+
+alert( "Цикл занял " + (end - start) + " ms" );
