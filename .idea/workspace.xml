@@ -39,8 +39,8 @@
       <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="137" column="30" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -240,14 +240,7 @@
       <workItem from="1517346375010" duration="1243000" />
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
-      <workItem from="1517416120665" duration="142000" />
-    </task>
-    <task id="LOCAL-00001" summary="le">
-      <created>1513092947921</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1513092947921</updated>
+      <workItem from="1517416120665" duration="169000" />
     </task>
     <task id="LOCAL-00002" summary="lesson 5">
       <created>1513093360263</created>
@@ -585,11 +578,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517416257241</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="datetime&#10;                                                      &#10;Напишите функцию formatDate(date), которая выводит дату date в формате дд.мм.гг:">
+      <created>1517416266380</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1517416266381</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10650000" />
+    <option name="totallyTimeSpent" value="10677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -971,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="137" column="30" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
           <folding />
         </state>
       </provider>
