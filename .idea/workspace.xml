@@ -40,8 +40,8 @@
       <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="62" />
+            <state relative-caret-position="444">
+              <caret line="88" column="8" lean-forward="true" selection-start-line="75" selection-start-column="2" selection-end-line="88" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -239,7 +239,7 @@
       <workItem from="1513352759944" duration="420000" />
       <workItem from="1513446778130" duration="727000" />
       <workItem from="1517346375010" duration="1243000" />
-      <workItem from="1517410848375" duration="47000" />
+      <workItem from="1517410848375" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -521,11 +521,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517347624841</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="datetime&#10;date.getHours&#10;//Дата в местной временной зоне создается при помощи new Date.">
+      <created>1517410908607</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517410908607</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7898000" />
+    <option name="totallyTimeSpent" value="8494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -578,7 +585,8 @@
     <MESSAGE value="delete tracking files" />
     <MESSAGE value="datetime" />
     <MESSAGE value="datetime&#10;date.getHours" />
-    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;date.getHours" />
+    <MESSAGE value="datetime&#10;date.getHours&#10;//Дата в местной временной зоне создается при помощи new Date." />
+    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;date.getHours&#10;//Дата в местной временной зоне создается при помощи new Date." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -904,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="62" />
+        <state relative-caret-position="444">
+          <caret line="88" column="8" lean-forward="true" selection-start-line="75" selection-start-column="2" selection-end-line="88" selection-end-column="8" />
           <folding />
         </state>
       </provider>
