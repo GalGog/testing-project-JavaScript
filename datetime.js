@@ -110,7 +110,7 @@ function getLocalDay(date) {
     return day;
 }
 
-alert( getLocalDay(new Date(2018, 0, 3)) );
+alert( getLocalDay(new Date(2017, 0, 3)) );
 
 
 //Если удобнее, чтобы день недели начинался с нуля, то можно возвращать в функции day - 1, тогда дни будут от 0 (пн) до 6(вс).
