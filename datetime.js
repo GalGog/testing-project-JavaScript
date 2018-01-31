@@ -115,3 +115,20 @@ alert( getLocalDay(new Date(2018, 0, 3)) );
 
 //Если удобнее, чтобы день недели начинался с нуля, то можно возвращать в функции day - 1, тогда дни будут от 0 (пн) до 6(вс).
 
+
+
+//task4
+//Напишите функцию getLastDayOfMonth(year, month), которая возвращает последний день месяца.
+//year – 4-значный год, например 2012.
+//month – месяц от 0 до 11.
+//Например, getLastDayOfMonth(2012, 1) = 29 (високосный год, февраль).
+//Создадим дату из следующего месяца, но день не первый, а «нулевой» (т.е. предыдущий):
+
+function getLastDayOfMonth(year, month) {
+    var date = new Date(year, month + 1, 0);
+    return date.getDate();
+}
+
+alert( getLastDayOfMonth(2012, 0) ); // 31
+alert( getLastDayOfMonth(2012, 1) ); // 29
+alert( getLastDayOfMonth(2013, 1) ); // 28
