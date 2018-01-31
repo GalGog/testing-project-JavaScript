@@ -132,3 +132,23 @@ function getLastDayOfMonth(year, month) {
 alert( getLastDayOfMonth(2012, 0) ); // 31
 alert( getLastDayOfMonth(2012, 1) ); // 29
 alert( getLastDayOfMonth(2013, 1) ); // 28
+
+
+//task5
+//Напишите функцию formatDate(date), которая выводит дату date в формате дд.мм.гг:
+function formatDate(date) {
+
+    var dd = date.getDate();
+    if (dd < 10) dd = '0' + dd;
+
+    var mm = date.getMonth() + 1;
+    if (mm < 10) mm = '0' + mm;
+
+    var yy = date.getFullYear() % 100;
+    if (yy < 10) yy = '0' + yy;
+
+    return dd + '.' + mm + '.' + yy;
+}
+
+var d = new Date(2014, 0, 30); // 30 Янв 2014
+alert( formatDate(d) ); // '30.01.14'
