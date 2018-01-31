@@ -40,8 +40,8 @@
       <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datetime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="97" column="16" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+            <state relative-caret-position="415">
+              <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -240,7 +240,7 @@
       <workItem from="1513446778130" duration="727000" />
       <workItem from="1517346375010" duration="1243000" />
       <workItem from="1517410848375" duration="1148000" />
-      <workItem from="1517413100677" duration="94000" />
+      <workItem from="1517413100677" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="le">
       <created>1513092947921</created>
@@ -536,11 +536,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517412483131</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="datetime&#10;date.getHours&#10;-//Напишите функцию, getLocalDay(date) которая возвращает день недели для даты date.">
+      <created>1517413214101</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1517413214101</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9093000" />
+    <option name="totallyTimeSpent" value="9316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -595,7 +602,8 @@
     <MESSAGE value="datetime&#10;date.getHours" />
     <MESSAGE value="datetime&#10;date.getHours&#10;//Дата в местной временной зоне создается при помощи new Date." />
     <MESSAGE value="datetime&#10;date.getHours&#10;- Метод getDay() позволяет получить номер дня недели, начиная с воскресенья.&#10;&#10;- В современных браузерах можно использовать и toLocaleString:" />
-    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;date.getHours&#10;- Метод getDay() позволяет получить номер дня недели, начиная с воскресенья.&#10;&#10;- В современных браузерах можно использовать и toLocaleString:" />
+    <MESSAGE value="datetime&#10;date.getHours&#10;-//Напишите функцию, getLocalDay(date) которая возвращает день недели для даты date." />
+    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;date.getHours&#10;-//Напишите функцию, getLocalDay(date) которая возвращает день недели для даты date." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -921,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="97" column="16" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="415">
+          <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
           <folding />
         </state>
       </provider>
