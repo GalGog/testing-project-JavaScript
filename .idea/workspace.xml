@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7 Глобальный объект.html" afterPath="$PROJECT_DIR$/lesson7 Глобальный объект.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,31 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson7 Глобальный объект.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson7 Глобальный объект.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson7 Глобальный объект.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -67,6 +56,7 @@
         <option value="$PROJECT_DIR$/datetime.js" />
         <option value="$PROJECT_DIR$/lesson7 Глобальный объект.js" />
         <option value="$PROJECT_DIR$/lesson7 Глобальный объект.html" />
+        <option value="$PROJECT_DIR$/lesson7 Глобальный объект.js" />
       </list>
     </option>
   </component>
@@ -234,14 +224,7 @@
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
       <workItem from="1517416120665" duration="776000" />
-      <workItem from="1517500777185" duration="484000" />
-    </task>
-    <task id="LOCAL-00009" summary="leson 5 Массивы с числовыми индексами&#10;Пустой массив">
-      <created>1513171581924</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1513171581924</updated>
+      <workItem from="1517500777185" duration="640000" />
     </task>
     <task id="LOCAL-00010" summary="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:">
       <created>1513171702846</created>
@@ -579,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517500807674</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="lesson7">
+      <created>1517501384402</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1517501384402</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11768000" />
+    <option name="totallyTimeSpent" value="11924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -615,7 +605,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 5-5" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Пустой массив" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
@@ -640,21 +629,14 @@
     <MESSAGE value="datetime&#10;                                                       //Напишите функцию getLastDayOfMonth(year, month), которая возвращает последний день месяца." />
     <MESSAGE value="datetime&#10;                                                      &#10;Напишите функцию formatDate(date), которая выводит дату date в формате дд.мм.гг:" />
     <MESSAGE value="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра." />
-    <option name="LAST_COMMIT_MESSAGE" value="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра." />
+    <MESSAGE value="lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.html" />
-    <entry file="file://$PROJECT_DIR$/lesson5task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson5task3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -939,14 +921,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.html" />
-    <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datetime.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -975,6 +949,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>
