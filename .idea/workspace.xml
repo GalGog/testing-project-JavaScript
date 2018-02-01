@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7 Глобальный объект.html" afterPath="$PROJECT_DIR$/lesson7 Глобальный объект.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,31 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2.js">
+      <file leaf-file-name="lesson7 Глобальный объект.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datetime.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datetime.html">
+      <file leaf-file-name="lesson7 Глобальный объект.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datetime.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datetime.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/datetime.html" />
         <option value="$PROJECT_DIR$/datetime.js" />
+        <option value="$PROJECT_DIR$/lesson7 Глобальный объект.js" />
+        <option value="$PROJECT_DIR$/lesson7 Глобальный объект.html" />
       </list>
     </option>
   </component>
@@ -241,14 +234,7 @@
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
       <workItem from="1517416120665" duration="776000" />
-      <workItem from="1517500777185" duration="27000" />
-    </task>
-    <task id="LOCAL-00008" summary="leson 5 Массивы с числовыми индексами">
-      <created>1513171430107</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1513171430107</updated>
+      <workItem from="1517500777185" duration="484000" />
     </task>
     <task id="LOCAL-00009" summary="leson 5 Массивы с числовыми индексами&#10;Пустой массив">
       <created>1513171581924</created>
@@ -586,11 +572,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517500797267</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра.">
+      <created>1517500807673</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1517500807674</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11311000" />
+    <option name="totallyTimeSpent" value="11768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -654,14 +647,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.js" />
-    <entry file="file://$PROJECT_DIR$/lesson6Массив: перебирающие методы.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.html" />
     <entry file="file://$PROJECT_DIR$/lesson5task3.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -824,14 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -962,6 +939,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson6Псевдомассив аргументов &quot;arguments&quot;.html" />
+    <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datetime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="152" column="45" lean-forward="true" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datetime.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -970,10 +963,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datetime.js">
+    <entry file="file://$PROJECT_DIR$/lesson2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
           <folding />
         </state>
       </provider>
