@@ -29,8 +29,8 @@
       <file leaf-file-name="lesson7 Глобальный объект.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="501">
+              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -224,14 +224,7 @@
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
       <workItem from="1517416120665" duration="776000" />
-      <workItem from="1517500777185" duration="1396000" />
-    </task>
-    <task id="LOCAL-00013" summary="lesson5 &#10;// получить объект из массива и тут же -- его свойство">
-      <created>1513172688275</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1513172688275</updated>
+      <workItem from="1517500777185" duration="1441000" />
     </task>
     <task id="LOCAL-00014" summary="lesson5 &#10;push  Добавляет элемент в конец массива:">
       <created>1513173381256</created>
@@ -569,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517501773281</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="lesson7&#10;Глобальный объект">
+      <created>1517502409431</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1517502409431</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12680000" />
+    <option name="totallyTimeSpent" value="12725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -971,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="501">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding />
         </state>
       </provider>
