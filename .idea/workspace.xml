@@ -241,14 +241,7 @@
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
       <workItem from="1517416120665" duration="776000" />
-      <workItem from="1517500777185" duration="4000" />
-    </task>
-    <task id="LOCAL-00006" summary="lesson 5-5">
-      <created>1513093484140</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1513093484140</updated>
+      <workItem from="1517500777185" duration="17000" />
     </task>
     <task id="LOCAL-00007" summary="lesson 5-5">
       <created>1513093537835</created>
@@ -586,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517416433048</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра.">
+      <created>1517500786061</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1517500786061</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11288000" />
+    <option name="totallyTimeSpent" value="11301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
