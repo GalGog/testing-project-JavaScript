@@ -29,8 +29,8 @@
       <file leaf-file-name="lesson7 Глобальный объект.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -224,14 +224,7 @@
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
       <workItem from="1517416120665" duration="776000" />
-      <workItem from="1517500777185" duration="674000" />
-    </task>
-    <task id="LOCAL-00011" summary="leson 5 Чтобы получить нужный элемент из массива – указывается его номер в квадратных скобках:">
-      <created>1513171879135</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1513171879135</updated>
+      <workItem from="1517500777185" duration="819000" />
     </task>
     <task id="LOCAL-00012" summary="lesson5 &#10;Общее число элементов, хранимых в массиве, содержится в его свойстве length:">
       <created>1513172174003</created>
@@ -569,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517501558711</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="lesson7&#10;Глобальный объект">
+      <created>1517501595512</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1517501595512</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11958000" />
+    <option name="totallyTimeSpent" value="12103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -605,7 +605,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leson 5 Массивы с числовыми индексами" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Пустой массив" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
     <MESSAGE value="leson 5 Чтобы получить нужный элемент из массива – указывается его номер в квадратных скобках:" />
@@ -630,7 +629,8 @@
     <MESSAGE value="datetime&#10;                                                      &#10;Напишите функцию formatDate(date), которая выводит дату date в формате дд.мм.гг:" />
     <MESSAGE value="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра." />
     <MESSAGE value="lesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
+    <MESSAGE value="lesson7&#10;Глобальный объект" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7&#10;Глобальный объект" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -971,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>
