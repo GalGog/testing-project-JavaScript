@@ -111,8 +111,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,14 +240,8 @@
       <workItem from="1517346375010" duration="1243000" />
       <workItem from="1517410848375" duration="1148000" />
       <workItem from="1517413100677" duration="1509000" />
-      <workItem from="1517416120665" duration="309000" />
-    </task>
-    <task id="LOCAL-00005" summary="lesson 5">
-      <created>1513093437644</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1513093437644</updated>
+      <workItem from="1517416120665" duration="776000" />
+      <workItem from="1517500777185" duration="4000" />
     </task>
     <task id="LOCAL-00006" summary="lesson 5-5">
       <created>1513093484140</created>
@@ -585,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517416407782</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра.">
+      <created>1517416433048</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1517416433048</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10817000" />
+    <option name="totallyTimeSpent" value="11288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="23" width="1076" height="722" extended-state="0" />
@@ -935,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
