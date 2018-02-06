@@ -4,37 +4,27 @@
     <meta charset="UTF-8">
     <script src="jstutorial.js"></script>
 
-    <style type="text/css">
-        body {font-size: 1.6em;}
-        .hidden {display: none;}
-        .show {display: inline !important;}
-        button {
-            border: 2px solid black; background: #E5E4E2;
-            font-size: .5em; font-weight: bold; color: black;
-            padding: .8em 2em;
-            margin-top: .4em;
-        }
 
-    </style>
 </head>
 <body>
-
 <script>
-    document.write("5 + 4 = ", 5 + 4, "<br/>");
-    document.write("5 + 4 = " + 5 + 4, "<br/>");
+    var costomer = {
+        name: "tom Smit",
+        speak: function (){
+            return "my name is" + this.name;
+        },
+        address:{
+            street: '123 Main St',
+            city: "Pitieburg",
+            state: "PA"
+        }
+    };
+    document.write(customer.speak() + "<br/>");
+
+    document.write(customer.name + "lives at" + customer.address.street + "<br/>");
+
+
 </script>
-
-
-<script>
-    document.write("Converted String :",Number("3.14"), "<br/>");
-
-    var randStr = "A long" + "string that" + "goes on and on";
-    document.write("String Length", randStr.length + "<br/>");
-    document.write ("index for \"goes\": ",randStr.indexOf("goes"), "<br/>");
-
-
-</script>
-
 
 <p id="sayHello"></p>
 <script>
@@ -47,6 +37,11 @@
         alert("please enter  a name next time");
     }
 </script>
+
+
+
+
+
 
 </body>
 </html>
