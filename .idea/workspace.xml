@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js" afterPath="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +20,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="0">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -41,8 +40,18 @@
       <file leaf-file-name="proect1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -51,8 +60,8 @@
       <file leaf-file-name="proect1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="228">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -264,14 +273,7 @@
       <workItem from="1517847494806" duration="16000" />
       <workItem from="1517847590095" duration="83000" />
       <workItem from="1517848764462" duration="2000" />
-      <workItem from="1517914100668" duration="384000" />
-    </task>
-    <task id="LOCAL-00020" summary="lesson5">
-      <created>1513182925752</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1513182925752</updated>
+      <workItem from="1517914100668" duration="876000" />
     </task>
     <task id="LOCAL-00021" summary=" lesson 5 task 1">
       <created>1513350779448</created>
@@ -609,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517847603103</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="practic lesson">
+      <created>1517914508570</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1517914508573</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13690000" />
+    <option name="totallyTimeSpent" value="14182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -645,7 +654,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Пустой массив" />
     <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
     <MESSAGE value="leson 5 Чтобы получить нужный элемент из массива – указывается его номер в квадратных скобках:" />
     <MESSAGE value="lesson5 &#10;Общее число элементов, хранимых в массиве, содержится в его свойстве length:" />
@@ -670,7 +678,8 @@
     <MESSAGE value="datetime&#10;                                                      &#10;//Напишите функцию getSecondsToTomorrow() которая возвращает, сколько секунд осталось до завтра." />
     <MESSAGE value="lesson7" />
     <MESSAGE value="lesson7&#10;Глобальный объект" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7&#10;Глобальный объект" />
+    <MESSAGE value="practic lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="practic lesson" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -814,13 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -973,7 +975,7 @@
     <entry file="file://$PROJECT_DIR$/lesson7 Глобальный объект.js" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="0">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -989,16 +991,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="228">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
