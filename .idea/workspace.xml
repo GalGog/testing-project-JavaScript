@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html" afterPath="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js" afterPath="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jstutorial.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jstutorial.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jstutorial.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jstutorial.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/lesson7 Глобальный объект.js" />
         <option value="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.html" />
         <option value="$PROJECT_DIR$/lesson6reduce/projekt js 1/proect1.js" />
-        <option value="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js" />
         <option value="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html" />
+        <option value="$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js" />
       </list>
     </option>
   </component>
@@ -267,14 +267,8 @@
       <workItem from="1517848764462" duration="2000" />
       <workItem from="1517914100668" duration="1760000" />
       <workItem from="1517916294374" duration="1732000" />
-      <workItem from="1517918105194" duration="863000" />
-    </task>
-    <task id="LOCAL-00023" summary=" lesson 5 task 1">
-      <created>1513351161197</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1513351161197</updated>
+      <workItem from="1517918105194" duration="1393000" />
+      <workItem from="1517920250349" duration="90000" />
     </task>
     <task id="LOCAL-00024" summary=" lesson 5 task 2">
       <created>1513351640950</created>
@@ -612,11 +606,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517918117195</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="practic lesson">
+      <created>1517919559424</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1517919559424</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17661000" />
+    <option name="totallyTimeSpent" value="18281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -989,18 +990,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js">
+    <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.html">
+    <entry file="file://$PROJECT_DIR$/lesson6reduce/projekt js 1/jstutorial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding />
         </state>
       </provider>
