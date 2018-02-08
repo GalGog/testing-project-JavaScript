@@ -115,7 +115,7 @@ var users = [{
 }, {
     name: "Маша",
     surname: 'Медведева',
-    age: 18
+    age: 16
 }];
 
 function byField(field) {
