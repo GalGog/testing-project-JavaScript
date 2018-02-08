@@ -55,3 +55,17 @@ alert( counter() ); // 2
 
 counter.set(5);
 alert( counter() ); // 5
+
+
+
+
+function sum(a) {
+
+    return function(b) {
+        return a + b; // возьмет a из внешнего LexicalEnvironment
+    };
+
+}
+
+alert( sum(1)(2) );
+alert( sum(5)(-1) );
