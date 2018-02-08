@@ -1,5 +1,5 @@
 function makeCounter() {
-    var currentCount = 1;
+    var currentCount = 2;
 
     return { // возвратим объект вместо функции
         getNext: function() {
@@ -11,7 +11,7 @@ function makeCounter() {
         },
 
         reset: function() {
-            currentCount = 1;
+            currentCount = 2;
         }
     };
 }
