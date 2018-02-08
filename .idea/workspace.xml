@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/lesson7/Локальные переменные для объекта.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
-              <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+              <caret line="102" column="28" lean-forward="false" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -259,14 +259,7 @@
       <workItem from="1517929937725" duration="1374000" />
       <workItem from="1517957176843" duration="498000" />
       <workItem from="1518104325824" duration="1556000" />
-      <workItem from="1518106145485" duration="72000" />
-    </task>
-    <task id="LOCAL-00031" summary=" lesson 6 Массивы: методы">
-      <created>1513447025556</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1513447025556</updated>
+      <workItem from="1518106145485" duration="102000" />
     </task>
     <task id="LOCAL-00032" summary=" lesson 6  Массив: перебирающие методы">
       <created>1513447077460</created>
@@ -604,11 +597,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518106181396</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="lesson7">
+      <created>1518106222632</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1518106222632</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22408000" />
+    <option name="totallyTimeSpent" value="22438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -993,7 +993,7 @@
     <entry file="file://$PROJECT_DIR$/lesson7/Локальные переменные для объекта.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
-          <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <caret line="102" column="28" lean-forward="false" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
           <folding />
         </state>
       </provider>
