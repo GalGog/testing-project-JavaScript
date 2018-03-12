@@ -75,3 +75,12 @@ var user = {
 };
 
 alert( user.export.firstName );
+
+//
+var user = {
+    firstName: "Василий",
+
+    export: this // (*)
+};
+
+alert( user.export.firstName );
