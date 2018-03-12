@@ -65,3 +65,13 @@ obj.go();            // (1) object
 (method = obj.go)();      // (3) undefined
 
 (obj.go || obj.stop)(); // (4) undefined
+
+//Что выведет alert в этом коде? Почему?
+
+var user = {
+    firstName: "Василий",
+
+    export: this
+};
+
+alert( user.export.firstName );
