@@ -36,3 +36,13 @@ function showName(namedObj) {
 }
 
 user.sayHi(); // Василий
+
+
+
+var arr = ["a", "b"];
+
+arr.push(function() {
+    alert( this );
+})
+
+arr[2](); // "a","b",function

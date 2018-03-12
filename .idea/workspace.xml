@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948fe98d-fcea-4cf1-9ffd-ebb985c35784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/lesson8.1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/lesson8.1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/lesson8.1.js" afterPath="$PROJECT_DIR$/lesson8/lesson8.1.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
-              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -249,14 +248,7 @@
       <workItem from="1518104325824" duration="1556000" />
       <workItem from="1518106145485" duration="568000" />
       <workItem from="1518171933698" duration="2000" />
-      <workItem from="1520870551939" duration="515000" />
-    </task>
-    <task id="LOCAL-00036" summary="datetime&#10;date.getHours">
-      <created>1517346719444</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1517346719444</updated>
+      <workItem from="1520870551939" duration="1064000" />
     </task>
     <task id="LOCAL-00037" summary="datetime&#10;date.getHours">
       <created>1517347056586</created>
@@ -594,11 +586,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518106392844</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="testing js Методы объектов, this">
+      <created>1520871180196</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1520871180196</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23421000" />
+    <option name="totallyTimeSpent" value="23970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -630,7 +629,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leson 5 Массивы с числовыми индексами&#10;Массив с тремя элементами:" />
     <MESSAGE value="leson 5 Чтобы получить нужный элемент из массива – указывается его номер в квадратных скобках:" />
     <MESSAGE value="lesson5 &#10;Общее число элементов, хранимых в массиве, содержится в его свойстве length:" />
     <MESSAGE value="lesson5 &#10;// получить объект из массива и тут же -- его свойство" />
@@ -655,8 +653,8 @@
     <MESSAGE value="lesson7&#10;Глобальный объект" />
     <MESSAGE value="practic lesson" />
     <MESSAGE value="lesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="testing js Методы объектов, this" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing js Методы объектов, this" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -986,7 +984,7 @@
     <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
           <folding />
         </state>
       </provider>
