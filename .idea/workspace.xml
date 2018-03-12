@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
-              <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
+              <caret line="99" column="28" lean-forward="false" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -249,14 +249,7 @@
       <workItem from="1518106145485" duration="568000" />
       <workItem from="1518171933698" duration="2000" />
       <workItem from="1520870551939" duration="1562000" />
-      <workItem from="1520872502174" duration="233000" />
-    </task>
-    <task id="LOCAL-00040" summary="datetime&#10;date.getHours">
-      <created>1517347624841</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1517347624841</updated>
+      <workItem from="1520872502174" duration="336000" />
     </task>
     <task id="LOCAL-00041" summary="datetime&#10;date.getHours&#10;//Дата в местной временной зоне создается при помощи new Date.">
       <created>1517410908607</created>
@@ -594,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520872594965</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="testing js Методы объектов, this">
+      <created>1520872775653</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1520872775653</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24701000" />
+    <option name="totallyTimeSpent" value="24804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -980,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
-          <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
+          <caret line="99" column="28" lean-forward="false" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
           <folding />
         </state>
       </provider>
