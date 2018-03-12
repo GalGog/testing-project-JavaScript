@@ -20,8 +20,8 @@
       <file leaf-file-name="lesson8.1.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="101" column="12" lean-forward="false" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+            <state relative-caret-position="136">
+              <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -249,14 +249,7 @@
       <workItem from="1518106145485" duration="568000" />
       <workItem from="1518171933698" duration="2000" />
       <workItem from="1520870551939" duration="1562000" />
-      <workItem from="1520872502174" duration="794000" />
-    </task>
-    <task id="LOCAL-00042" summary="datetime&#10;date.getHours&#10;- Метод getDay() позволяет получить номер дня недели, начиная с воскресенья.&#10;&#10;- В современных браузерах можно использовать и toLocaleString:">
-      <created>1517412483131</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1517412483131</updated>
+      <workItem from="1520872502174" duration="977000" />
     </task>
     <task id="LOCAL-00043" summary="datetime&#10;date.getHours&#10;-//Напишите функцию, getLocalDay(date) которая возвращает день недели для даты date.">
       <created>1517413214101</created>
@@ -594,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520872879827</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="testing js Методы объектов, this">
+      <created>1520873392811</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1520873392811</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25262000" />
+    <option name="totallyTimeSpent" value="25445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="24" width="1076" height="722" extended-state="0" />
@@ -980,8 +980,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson8/lesson8.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="101" column="12" lean-forward="false" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
           <folding />
         </state>
       </provider>
